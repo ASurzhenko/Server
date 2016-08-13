@@ -4,7 +4,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Created by Александр on 13.08.2016.
+ * Created by Alexandr on 13.08.2016.
  */
 public class Frontend extends HttpServlet {
     private String login = "";
